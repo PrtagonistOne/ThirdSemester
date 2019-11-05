@@ -1,0 +1,11 @@
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\bin\Debug\netcoreapp2.2\Problem 1.deps.json
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\bin\Debug\netcoreapp2.2\Problem 1.runtimeconfig.json
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\bin\Debug\netcoreapp2.2\Problem 1.runtimeconfig.dev.json
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\bin\Debug\netcoreapp2.2\Problem 1.dll
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\bin\Debug\netcoreapp2.2\Problem 1.pdb
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.csprojAssemblyReference.cache
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.csproj.CoreCompileInputs.cache
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.AssemblyInfoInputs.cache
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.AssemblyInfo.cs
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.dll
+D:\Универ\2 Курс 3 семестр\С#\LAB3\Problem 1\Problem 1\obj\Debug\netcoreapp2.2\Problem 1.pdb

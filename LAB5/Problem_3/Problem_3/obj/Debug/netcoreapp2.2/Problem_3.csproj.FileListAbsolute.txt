@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.deps.json
+C:\Users\User\source\repos\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.runtimeconfig.json
+C:\Users\User\source\repos\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.runtimeconfig.dev.json
+C:\Users\User\source\repos\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.dll
+C:\Users\User\source\repos\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.pdb
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.AssemblyInfo.cs
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.dll
+C:\Users\User\source\repos\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.pdb
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.deps.json
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.runtimeconfig.json
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.runtimeconfig.dev.json
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.dll
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\bin\Debug\netcoreapp2.2\Problem_3.pdb
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.csprojAssemblyReference.cache
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.AssemblyInfoInputs.cache
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.AssemblyInfo.cs
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.dll
+D:\Универ\2 Курс 3 семестр\С#\LAB5\Problem_3\Problem_3\obj\Debug\netcoreapp2.2\Problem_3.pdb

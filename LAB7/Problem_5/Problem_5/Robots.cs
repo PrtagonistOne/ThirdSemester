@@ -8,18 +8,18 @@ namespace Problem_5
 
         public string Model { get; set; }
 
-        public Robots(string id, string model)
+        public Robots(string model, string id)
         {
             ID = id;
             Model = model;
         }
 
-        public void Detaine(string fake)
+        public void Detaine(string s)
         {
             int c = 0;
             for (int i = (ID.Length - 3); i < ID.Length; i++)
             {
-                if (ID[i] == fake[i - (ID.Length - 3)])
+                if (ID[i] == s[i - (ID.Length - 3)])
                 { c++; }
             }
             if (c == 3) { Console.WriteLine(ID); }

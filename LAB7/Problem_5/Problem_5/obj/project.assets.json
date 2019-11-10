@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB7\\Problem_5\\Problem_5\\Problem_5.csproj",
+      "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB7\\Problem_5\\Problem_5\\Problem_5.csproj",
       "projectName": "Problem_5",
-      "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB7\\Problem_5\\Problem_5\\Problem_5.csproj",
+      "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB7\\Problem_5\\Problem_5\\Problem_5.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB7\\Problem_5\\Problem_5\\obj\\",
+      "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB7\\Problem_5\\Problem_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

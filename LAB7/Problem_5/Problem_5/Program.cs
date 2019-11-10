@@ -16,11 +16,13 @@ namespace Problem_5
             {
                 if (start.Length == 3)
                 { 
-                    Citizens t = new Citizens(start[0], start[1], int.Parse(start[2])); citizens.Add(t); 
+                    Citizens t = new Citizens(start[0], int.Parse(start[1]), start[2]);
+                    citizens.Add(t); 
                 }
                 else if(start.Length == 2)
                 {
-                    Robots t = new Robots(start[0], start[1]); robots.Add(t);
+                    Robots t = new Robots(start[0], start[1]); 
+                    robots.Add(t);
                 }
                 
                     start = Console.ReadLine().Split(" ");

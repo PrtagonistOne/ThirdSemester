@@ -8,25 +8,22 @@ namespace Problem_5
         public string Name { get; set; }      
         public int Age { get; set; }
 
-        public Citizens(string id,string name, int age)
+        public Citizens(string name, int age, string id)
         {
             ID = id;
             Name = name;
             Age = age;
         }
 
-        public void Detaine(string fake)
+        public void Detaine(string s)
         {
             int c = 0;
             for (int i = (ID.Length - 3); i < ID.Length; i++)
             {
-                if (ID[i] == fake[i - (ID.Length - 3)])
+                if (ID[i] == s[i - (ID.Length - 3)])
                 { c++; }
             }
-            if (c == 3)
-            { 
-                Console.WriteLine(ID); 
-            }
+            if (c == 3) { Console.WriteLine(ID); }
         }
     }
 }

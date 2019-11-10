@@ -15,7 +15,11 @@ namespace Problem_6
             for (int i = 0; i < brows.Length; i++)
             {
                 IsDigit = int.TryParse(Convert.ToString(brows[i]), out int n);
-                if (IsDigit) { Notify?.Invoke("Invalid URL!"); break; }
+                if (IsDigit) 
+                {
+                    Notify?.Invoke("Invalid URL!"); 
+                    break;
+                }
             }
             if (!IsDigit) { Notify?.Invoke($"Browsing: {brows}!"); }
         }

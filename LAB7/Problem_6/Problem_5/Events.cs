@@ -2,9 +2,9 @@
 
 namespace Problem_5
 {
-    delegate void happens(string dateOfYear);
     class Events 
     {
+        public delegate void happens(string dateOfYear);
         public event happens wantedYear;
         public void Counter(string dateOfYear)
         { wantedYear(dateOfYear); }

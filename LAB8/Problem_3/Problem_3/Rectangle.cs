@@ -20,7 +20,7 @@ namespace Problem_3
 
         public override string Draw()
         {
-            string figure = "";
+            string Rectangle = "";
 
             int n = (int)Height;
             int m = (int)Width + 2;
@@ -29,23 +29,23 @@ namespace Problem_3
                 for (int j = 0; j < m; j++)
                 {
                     if ((j != 0 && j != m - 1) && (i == 0 || i == n - 1))
-                    { 
-                        figure += "-";
+                    {
+                        Rectangle += "-";
                     }
                     else if (j == 0) 
-                    { 
-                        figure += "|";
+                    {
+                        Rectangle += "|";
                     }
                     else if (j == m - 1) 
                     {
-                        figure += "|\n"; 
+                        Rectangle += "|\n"; 
                     }
                     else {
-                        figure += " ";
+                        Rectangle += " ";
                     }
                 }
 
-            return figure;
+            return Rectangle ;
         }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj": {}
+    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj": {}
   },
   "projects": {
-    "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj": {
+    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj",
+        "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj",
         "projectName": "Problem_3",
-        "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj",
+        "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB5\\Problem_3\\Problem_3\\Problem_3.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB5\\Problem_3\\Problem_3\\obj\\",
+        "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB5\\Problem_3\\Problem_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
+      "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
       "projectName": "Problem 3",
-      "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
+      "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\LAB3\\Problem 3\\Problem 3\\obj\\",
+      "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

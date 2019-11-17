@@ -10,11 +10,16 @@ namespace Problem_1
 
             int n = int.Parse(Console.ReadLine());
 
+            string[] t = new string[n];
             Console.WriteLine("Input the strings: ");
-            for (int i=0;i<n;i++)
+            for (int i = 0; i < n; i++)
             {
-                string t = Console.ReadLine();
-                Box<string> boxy = new Box<string>(t);
+                t[i] = Console.ReadLine();
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                Box<string> boxy = new Box<string>(t[i]);
                 Console.WriteLine(boxy);
             }
 

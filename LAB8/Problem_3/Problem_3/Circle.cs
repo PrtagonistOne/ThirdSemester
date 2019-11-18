@@ -23,7 +23,7 @@ namespace Problem_3
             {
                 for (double j = -Radius; j <= Radius; j++)
                 {
-                    if (Math.Sqrt(i * i + j * j) <= (Radius * 0.90))
+                    if (Math.Sqrt(i * i + j * j) <= (Radius * 0.85))
                     {
                         Circle += "0";
                     }

@@ -15,7 +15,7 @@ namespace Problem_5
             for (int i = 0; i < n; i++)
             {
                 s = double.Parse(Console.ReadLine());
-                s1[i] = s;
+                    s1[i] = s;
             }
 
             Box<double> toCompare = new Box<double>(s1);

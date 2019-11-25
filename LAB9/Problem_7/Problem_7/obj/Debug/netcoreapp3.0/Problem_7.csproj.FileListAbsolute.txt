@@ -1,0 +1,11 @@
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.exe
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.deps.json
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.runtimeconfig.json
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.runtimeconfig.dev.json
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.dll
+C:\Users\playe\source\repos\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.pdb
+C:\Users\playe\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.csprojAssemblyReference.cache
+C:\Users\playe\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.AssemblyInfoInputs.cache
+C:\Users\playe\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.AssemblyInfo.cs
+C:\Users\playe\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.dll
+C:\Users\playe\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.pdb

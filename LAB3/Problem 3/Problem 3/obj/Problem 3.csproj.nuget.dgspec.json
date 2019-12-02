@@ -10,14 +10,11 @@
         "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
         "projectName": "Problem 3",
         "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\Problem 3.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
         "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB3\\Problem 3\\Problem 3\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

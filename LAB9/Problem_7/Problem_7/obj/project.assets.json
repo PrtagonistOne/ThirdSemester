@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\playe\\source\\repos\\Problem_7\\Problem_7\\Problem_7.csproj",
+      "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB9\\Problem_7\\Problem_7\\Problem_7.csproj",
       "projectName": "Problem_7",
-      "projectPath": "C:\\Users\\playe\\source\\repos\\Problem_7\\Problem_7\\Problem_7.csproj",
+      "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB9\\Problem_7\\Problem_7\\Problem_7.csproj",
       "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\playe\\source\\repos\\Problem_7\\Problem_7\\obj\\",
+      "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB9\\Problem_7\\Problem_7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",

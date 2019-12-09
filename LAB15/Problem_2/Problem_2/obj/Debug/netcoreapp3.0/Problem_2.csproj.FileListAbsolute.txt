@@ -1,0 +1,22 @@
+C:\Users\playe\source\repos\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.csprojAssemblyReference.cache
+C:\Users\playe\source\repos\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.AssemblyInfoInputs.cache
+C:\Users\playe\source\repos\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.AssemblyInfo.cs
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.exe
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.deps.json
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.runtimeconfig.json
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.runtimeconfig.dev.json
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.dll
+C:\Users\playe\source\repos\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.pdb
+C:\Users\playe\source\repos\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.dll
+C:\Users\playe\source\repos\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.pdb
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.exe
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.deps.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.runtimeconfig.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.runtimeconfig.dev.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.dll
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\bin\Debug\netcoreapp3.0\Problem_2.pdb
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.csprojAssemblyReference.cache
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.AssemblyInfoInputs.cache
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.AssemblyInfo.cs
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.dll
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB15\Problem_2\Problem_2\obj\Debug\netcoreapp3.0\Problem_2.pdb

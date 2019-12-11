@@ -18,11 +18,14 @@ namespace Problem_5
         }
         public int CompareTo(Person q)
         {
-            if(Name == q.Name && Age == q.Age && Town == q.Town)
+            if (Name == q.Name && Age == q.Age && Town == q.Town)
             {
                 return 1;
             }
-            else { return 0; }
+            else
+            { return 0; }
         }
+       
+
     }
 }

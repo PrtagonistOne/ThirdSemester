@@ -25,7 +25,7 @@ namespace Problem_1
         }
         public bool HasNext()
         {
-            if(indx + 1< Input.Length)
+            if(indx + 1 < Input.Length)
             {
                 return true;
             }

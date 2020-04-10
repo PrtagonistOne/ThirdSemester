@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7
 C:\Users\User\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.AssemblyInfo.cs
 C:\Users\User\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.dll
 C:\Users\User\source\repos\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.pdb
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.csprojAssemblyReference.cache
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.AssemblyInfoInputs.cache
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.AssemblyInfo.cs
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.dll
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\obj\Debug\netcoreapp3.0\Problem_7.pdb
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.exe
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.deps.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.runtimeconfig.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.runtimeconfig.dev.json
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.dll
+D:\Универ\2 Курс 3 семестр\С#\3Semester\ThirdSemester\LAB3\Problem_7\Problem_7\bin\Debug\netcoreapp3.0\Problem_7.pdb

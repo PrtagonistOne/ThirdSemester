@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_7\\Problem_7\\Problem_7.csproj": {}
+    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_6\\Problem_6\\Problem_6.csproj": {}
   },
   "projects": {
-    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_7\\Problem_7\\Problem_7.csproj": {
+    "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_6\\Problem_6\\Problem_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_7\\Problem_7\\Problem_7.csproj",
-        "projectName": "Problem_7",
-        "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_7\\Problem_7\\Problem_7.csproj",
+        "projectUniqueName": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_6\\Problem_6\\Problem_6.csproj",
+        "projectName": "Problem_6",
+        "projectPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_6\\Problem_6\\Problem_6.csproj",
         "packagesPath": "C:\\Users\\playe\\.nuget\\packages\\",
-        "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_7\\Problem_7\\obj\\",
+        "outputPath": "D:\\Универ\\2 Курс 3 семестр\\С#\\3Semester\\ThirdSemester\\LAB14\\Problem_6\\Problem_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\playe\\AppData\\Roaming\\NuGet\\NuGet.Config",
